@@ -1,0 +1,23 @@
+.odd {
+    background-color: rgb(233, 146, 146);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(53, 53, 179);
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(131, 175, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* The solution included another class to change the font-size
+ to 24, since the third and fourth elements share the same quality.
+ This helps cut down on the clutter! */

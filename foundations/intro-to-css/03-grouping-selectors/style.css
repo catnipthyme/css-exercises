@@ -1,0 +1,14 @@
+button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    border: 2px gray solid;
+}
+
+.mefirst {
+    background-color: black;
+    color: white;
+}
+
+.menext {
+    background-color: yellow;
+}
